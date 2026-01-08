@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017977266025",
+    "firebase_url": "https://kidscar-454dd-default-rtdb.firebaseio.com",
+    "project_id": "kidscar-454dd",
+    "storage_bucket": "kidscar-454dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017977266025:android:a1263040886b25da4ae7f8",
+        "android_client_info": {
+          "package_name": "com.codge.kidscar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-IXa5SjXPnlVks-27e4InhX9XkIszxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
